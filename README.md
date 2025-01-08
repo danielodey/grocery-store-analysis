@@ -2,7 +2,9 @@
 ![Alt text](grocery_analysis.webp)
 
 **Business Name:** The Nexus Grocery Store
+
 **Report Period:** 11 years, 2011–2022
+
 **Objective:** To analyze sales performance across the three outlets over a 11 year period and provide insights and recommendations for growth.
 
 ## Executive Summary
@@ -57,7 +59,7 @@ Tier 1 Outlet: Contributed 28%.
 ## Conclusion
 This sales analysis provides actionable insights into outlet performance, product trends, and customer preferences. Implementing these recommendations will enable The Nexus Grocery Store to improve sales and strengthen its market position over the next decade.
 
-## Tool Used: Power BI (data preparation, analysis, and visualization)
+**Tool Used:** Power BI (data preparation, analysis, and visualization)
 
 ## Link to Live Project
 [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZjNjNGY4NGYtZDUxZS00NmZmLTk5ZTItYWE3ZDM1ZTlmMzliIiwidCI6IjZjNzQ3Mzg1LTUyNTktNDcwMS05MTkzLTc5ZTkxNWNlYjA3ZSJ9)
