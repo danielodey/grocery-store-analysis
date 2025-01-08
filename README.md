@@ -1,17 +1,19 @@
 # Sales Analysis Report Summary
-![Alt text](grocery_analysis.wbp)
+![Alt text](grocery_analysis.webp)
 
 **Business Name:** The Nexus Grocery Store
 **Report Period:** 11 years, 2011–2022
 **Objective:** To analyze sales performance across the three outlets over a 11 year period and provide insights and recommendations for growth.
 
-##Executive Summary
+## Executive Summary
 
 This report provides a detailed analysis of the sales performance of The Nexus Grocery Store across its three outlets from 2011 to 2022. 
 The key findings include:
 
  -**Overall Sales:** The business generated $1.2M in sales over the 11-year period.
+ 
  -**Top-Performing Outlet:** Tier 3 Outlet outperformed others, contributing 39% of total sales.
+ 
  -**Annual Performance:** The store achieved its highest sales in 2018, recording $250K for the year.
 
 ## Key Insights
@@ -37,7 +39,7 @@ Tier 1 Outlet: Contributed 28%.
  -The average customer rating across all outlets is 4 out of 5, indicating strong customer satisfaction.
 
 ## Dashboard
-![Alt text](store_dashboard.png)
+![Alt text](store_dashboard.PNG)
 
 ## Recommendations
 1. **Investigate Declining Sales:**
