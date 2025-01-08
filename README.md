@@ -20,25 +20,25 @@ The key findings include:
 
 ## Key Insights
 1. **Sales Contribution by Outlet:**
- -Tier 3 Outlet: Contributed 39% of total sales.
- -Tier 2 Outlet: Contributed 33%.
-Tier 1 Outlet: Contributed 28%.
+    - Tier 3 Outlet: Contributed 39% of total sales.
+    - Tier 2 Outlet: Contributed 33%.
+    - Tier 1 Outlet: Contributed 28%.
 
 2. **Product Performance:**
- -Low-fat products generated $776.32K (65%) of sales.
- -Regular-fat products generated $425.36K (35%) of sales.
+    - Low-fat products generated $776.32K (65%) of sales.
+    - Regular-fat products generated $425.36K (35%) of sales.
 
 3. **Outlet Size Performance:**
- -Medium-sized outlets contributed the highest sales, totaling $507.9K (42%).
- -High-sized outlets contributed the least, generating only $248.99K (21%), despite their larger size.
+    - Medium-sized outlets contributed the highest sales, totaling $507.9K (42%).
+    - High-sized outlets contributed the least, generating only $248.99K (21%), despite their larger size.
 
 4. **Outlet-Specific Trends:**
- -Tier 1: Sales began declining in 2016.
- -Tier 2: Sales started declining in 2017.
- -Tier 3: Experienced steady growth from 2011, peaking in 2014, and plateauing afterward.
+    - Tier 1: Sales began declining in 2016.
+    - Tier 2: Sales started declining in 2017.
+    - Tier 3: Experienced steady growth from 2011, peaking in 2014, and plateauing afterward.
 
 5. **Customer Satisfaction:**
- -The average customer rating across all outlets is 4 out of 5, indicating strong customer satisfaction.
+    - The average customer rating across all outlets is 4 out of 5, indicating strong customer satisfaction.
 
 ## Dashboard
 ![Alt text](store_dashboard.PNG)
