@@ -44,17 +44,13 @@ Tier 1 Outlet: Contributed 28%.
 ![Alt text](store_dashboard.PNG)
 
 ## Recommendations
-1. **Investigate Declining Sales:**
- -Sales peaked in 2018 but have since declined. Conduct a thorough investigation to identify the root causes, as this does not appear to be related to customer service, given the high ratings.
+1. **Investigate Declining Sales:** Sales peaked in 2018 but have since declined. Conduct a thorough investigation to identify the root causes, as this does not appear to be related to customer service, given the high ratings.
 
-2. **Learn from Tier 3 Outlet:**
- -Managers at Tier 1 and Tier 2 should analyze and adopt best practices from Tier 3 to address their declining performance.
+2. **Learn from Tier 3 Outlet:** Managers at Tier 1 and Tier 2 should analyze and adopt best practices from Tier 3 to address their declining performance.
 
-3. **Focus on Low-Fat Products:**
- -Expand the range of low-fat products in all outlets to meet customer preferences and boost sales further.
+3. **Focus on Low-Fat Products:** Expand the range of low-fat products in all outlets to meet customer preferences and boost sales further.
 
-4. **Analyze High-Sized Outlets:**
- -Investigate why high-sized outlets generate the lowest revenue despite their larger capacity. Look into factors such as product mix, operational inefficiencies, and local market demand.
+4. **Analyze High-Sized Outlets:** Investigate why high-sized outlets generate the lowest revenue despite their larger capacity. Look into factors such as product mix, operational inefficiencies, and local market demand.
 
 ## Conclusion
 This sales analysis provides actionable insights into outlet performance, product trends, and customer preferences. Implementing these recommendations will enable The Nexus Grocery Store to improve sales and strengthen its market position over the next decade.
